@@ -5,7 +5,7 @@ It's a bussiness digital card based on Scrimba React course. I built the project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Preview
-[Live Preview Link](https://github.com/)
+[Live Preview Link](https://nedimperva.github.io/digital-business-card/)
 ## Desktop Screenshot
 ![Desktop Screenshot](./src/images/app-preview/desktop.png)
 
